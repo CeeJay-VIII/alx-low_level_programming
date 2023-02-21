@@ -5,6 +5,7 @@
  *Return: 1 if c is lower 0 otherwise
  *@c:character to be checked
  */
+
 int _islower(int c)
 {
 if (c >= 'a' && c <= 'z')
