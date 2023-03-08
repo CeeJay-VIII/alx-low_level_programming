@@ -24,7 +24,7 @@ if (y % 2 == 0)
 {
 int half;
 half = _pow_recursion(x, y / 2);
-return (half * half);
+return (half *half);
 }
 else
 {
